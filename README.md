@@ -19,7 +19,7 @@ For example:
   pip install pandas matplotlib numpy seaborn plotly
 
 # Clone the repository:
-git clone https://github.com/majzzxh-26/covid-19-analysis.git
+git clone https://github.com/majzzxh-26/Covid-19-using-Cognos
 
 # Running the Analysis
    **Install the required Python packages as mentioned in the Prerequisites section**
